@@ -66,6 +66,15 @@ This project includes SQL analyses covering:
 - Most expensive medications
 - Patient volume analysis
 
+## Script
+
+[`data_cleaning.sql`](scripts/data_cleaning.sql)
+
+[`sql_insights.sql`](scripts/sql_insights.sql)
+
+[`sql_polypharmacy_patient_journey.sql`](scripts/sql_polypharmacy_patient_journey.sql)
+
+
 ## Analysis Highlights
 
 ### Data Cleaning
@@ -103,6 +112,8 @@ This project demonstrates how SQL can transform complex healthcare datasets into
 
 ## Author
 
-**Kanu Calista**
+**Kanu Calista**  
 
-Healthcare Analytics • Business Analytics • Retail Analytics
+📧 [kanucalista02@gmail.com](mailto:kanucalista02@gmail.com)  
+
+💼 [LinkedIn](https://www.linkedin.com/in/kanu-calista) |  🐍 [GitHub](https://github.com/Kanu-Calista)
